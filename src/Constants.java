@@ -9,5 +9,20 @@ public class Constants {
     public static final int LABEL_HEIGHT = 30;
     public static final int COMBO_BOX_WIDTH = 80;
     public static final int COMBO_BOX_HEIGHT = 30;
+    public static final int RANGE_NUMBER_X = 200;
+    public static final String CSV_SPLIT_BY = ",";
+    public static final int RANGE = 30;
+    public static final int SPACE_WIDTH = 10;
+    public static final int SPACE_HEIGHT = 30;
+    public static final int SPACE_Y = 35;
+    public static final int BUTTON_HEIGHT = 200;
+    public static final String[] SEX_OPTION = { "All", "male", "female"};
+    public static final String[] EMBARKED_OPTION = {"All","S", "Q", "C"};
+    public static final int MIN_PASSENGER_ID = 0;
+    public static final int MAX_PASSENGER_ID = 891;
+    public static final int DEFAULT = 0;
+
+
+
 
 }
